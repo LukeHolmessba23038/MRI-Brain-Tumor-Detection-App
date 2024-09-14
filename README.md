@@ -40,7 +40,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/brain-mri-tumor-detection.git
+git clone https://github.com/LukeHolmessba23028/brain-mri-tumor-detection.git
 cd brain-mri-tumor-detection
 Install the required Python libraries:
 
