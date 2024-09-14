@@ -2,3 +2,4 @@ streamlit
 tensorflow==2.16.0
 Pillow
 numpy
+watchdog==4.0.2
